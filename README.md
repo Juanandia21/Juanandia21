@@ -2,25 +2,17 @@
 
 # Hi, I'm Juan Andia
 
-**Systems Engineer · Full Stack Developer**
-
-Web applications · Mobile solutions · RESTful APIs
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andiajuan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andiajuan9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Juanandia21)
-
 </div>
 
 ## About me
 
 I am a Systems Engineer and Full Stack Developer focused on building practical, modern and maintainable software.
 
-- I design responsive web interfaces with a focus on user experience.
-- I develop mobile applications and management systems.
-- I integrate frontend applications with RESTful APIs.
-- I work with secure authentication flows using JWT and Bcrypt.
-- I value clean architecture, clear collaboration and continuous learning.
+- I develop complete web systems and administrative platforms.
+- I build mobile applications for real-world workflows.
+- I create frontend interfaces and connect them with backend services.
+- I integrate RESTful APIs into web and mobile applications.
+- I design software solutions that can evolve with business needs.
 
 ## Languages
 
@@ -69,15 +61,6 @@ I am a Systems Engineer and Full Stack Developer focused on building practical, 
 
 ## Currently focused on
 
-- Building scalable frontend architectures.
-- Improving application performance and accessibility.
-- Creating clear and consistent user experiences.
-- Growing as a full stack developer through real-world challenges.
-
-<div align="center">
-
-## Let's connect
-
-If you are interested in technology, software development or collaboration, feel free to reach out.
-
-</div>
+- Building complete software systems from idea to implementation.
+- Developing reliable web and mobile solutions.
+- Improving architecture, usability and maintainability.
