@@ -12,24 +12,15 @@ Web applications · Mobile solutions · RESTful APIs
 
 </div>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## About me
 
-### About me
+I am a Systems Engineer and Full Stack Developer focused on building practical, modern and maintainable software.
 
-Systems Engineer and Full Stack Developer from Cochabamba, Bolivia. I build responsive web interfaces, mobile applications and RESTful integrations focused on clarity, performance and maintainability.
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="110" alt="Developer icon" />
-
-**Build. Learn. Improve.**
-
-</td>
-</tr>
-</table>
+- I design responsive web interfaces with a focus on user experience.
+- I develop mobile applications and management systems.
+- I integrate frontend applications with RESTful APIs.
+- I work with secure authentication flows using JWT and Bcrypt.
+- I value clean architecture, clear collaboration and continuous learning.
 
 ## Languages
 
@@ -57,7 +48,16 @@ Systems Engineer and Full Stack Developer from Cochabamba, Bolivia. I build resp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-## Tools and practices
+## Security and architecture
+
+<p>
+<img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Bcrypt-2563EB?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Bcrypt" />
+<img src="https://img.shields.io/badge/Mobile--First-1D4ED8?style=for-the-badge&logo=responsive&logoColor=white" alt="Mobile First" />
+</p>
+
+## Tools and methodologies
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -67,8 +67,17 @@ Systems Engineer and Full Stack Developer from Cochabamba, Bolivia. I build resp
 <img src="https://img.shields.io/badge/Scrum-475569?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
 </p>
 
+## Currently focused on
+
+- Building scalable frontend architectures.
+- Improving application performance and accessibility.
+- Creating clear and consistent user experiences.
+- Growing as a full stack developer through real-world challenges.
+
 <div align="center">
 
-**Clean code · Responsive design · Continuous learning**
+## Let's connect
+
+If you are interested in technology, software development or collaboration, feel free to reach out.
 
 </div>
