@@ -1,10 +1,6 @@
-<div align="center">
+<h1 align="center">Hi, I'm Juan Andia</h1>
 
-# Hi, I'm Juan Andia
-
-</div>
-
-## About me
+<h3>About me</h3>
 
 I am a Systems Engineer and Full Stack Developer focused on building practical, modern and maintainable software.
 
