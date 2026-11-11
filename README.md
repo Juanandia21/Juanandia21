@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Juan%20Andia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%7C%20Mobile&descAlignY=60&descSize=17" width="100%" />
+# Juan Andia
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+useful+digital+experiences;Frontend+%7C+Backend+%7C+Mobile;Always+learning%2C+always+building" alt="Typing animation" />
-</a>
+### Systems Engineer · Full Stack Developer
+
+Web applications · Mobile solutions · RESTful APIs
 
 </div>
 
+---
+
 ## About me
 
-I am a Systems Engineer and Full Stack Developer focused on building dynamic web interfaces, management systems and REST API integrations. I enjoy translating complex requirements into efficient, scalable and user-centered software solutions.
+Systems Engineer and Full Stack Developer focused on building dynamic web interfaces, management systems and REST API integrations. I translate complex requirements into efficient, scalable and user-centered software solutions, with a strong focus on frontend architecture and Mobile-First design.
 
 ## Languages
 
@@ -57,15 +59,6 @@ I am a Systems Engineer and Full Stack Developer focused on building dynamic web
   <img src="https://img.shields.io/badge/Scrum-6B7280?style=for-the-badge&logo=scrumalliance&logoColor=ffffff" alt="Scrum" />
 </p>
 
-## What drives me
+## Professional focus
 
-- Creating clean and engaging user experiences.
-- Learning new technologies through real-world challenges.
-- Writing organized code that can grow with the product.
-- Collaborating, sharing knowledge and continuously improving.
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
-
-</div>
+Frontend architecture, responsive interfaces, API integration, mobile development and maintainable software design.
